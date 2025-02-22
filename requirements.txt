@@ -1,0 +1,9 @@
+Pillow
+cryptography
+python-dotenv
+Flask
+psycopg2-binary
+pytz
+PyQt5==5.15.9
+requests==2.31.0
+python-dotenv==1.0.0
